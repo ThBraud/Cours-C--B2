@@ -78,7 +78,7 @@ class Program
         // Console.WriteLine(
         //     $"Il y a {plusgrands} personnes qui sont plus grandes que la moyenne de la classe qui est de {taillemoyennmetre} m.");
 
-        // Exercice 3.5: Test de commit
+        // Exercice 3.5: 
         
         Classe maClasse = new Classe();
         maClasse.Eleves = listePerson;
