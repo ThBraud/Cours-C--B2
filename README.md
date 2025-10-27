@@ -1,5 +1,6 @@
 # 🧠 Informations  
-Dans ce repo se trouve tous mes travaux faits en C# durant mon année de B2 à Sup de Vinci. Chaque TP est détaillé ci-dessous
+Dans ce repo se trouve tous mes travaux faits en C# durant mon année de B2 à Sup de Vinci. Chaque TP est détaillé ci-dessous.  
+Ces travaux pratiques ont été réalisés sur JetBrains Rider en 2025.
 
 ## 🏗️ Travaux Pratiques N°1  
 Consigne : Faire un programme en C# qui permet de demander votre nom, prénom date de naissance ainsi que votre adresse découpée en rue, code postal, et ville.  
