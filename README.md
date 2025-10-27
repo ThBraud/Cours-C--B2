@@ -19,6 +19,6 @@ classe qui est de 1,75 mètre.
 **Deuxième consigne (Exo 3.5) :** Faire un programme en C# qui permet d’ajouter la liste des Personne à un Objet Classe qui comporte une liste d’élève, un Nom, Une école, un Niveau.    
 
 **Troisème consigne (Exo 4) :** Faire un programme en C# qui permet de nous écrire le nom des personnes les plus grandes de la moyenne de la Classe et de nous écrire leur Prénom par ordre de taille. Il faut aussi que ces personnes soient uniquement de Nantes **(les valeurs seront différentes).**  
-Le programme doit finir en écrivant :
+Le programme doit finir en écrivant :  
 1 - Romain - 1,90  
 2-Clara - 1.89…
