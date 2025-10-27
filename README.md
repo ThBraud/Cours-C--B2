@@ -1,16 +1,16 @@
-# Informations  
+# 🧠 Informations  
 Dans ce repo se trouve tous mes travaux faits en C# durant mon année de B2 à Sup de Vinci. Chaque TP est détaillé ci-dessous
 
-## Travaux Pratiques N°1  
+## 🏗️ Travaux Pratiques N°1  
 Consigne : Faire un programme en C# qui permet de demander votre nom, prénom date de naissance ainsi que votre adresse découpée en rue, code postal, et ville.  
 Le programme doit finir en écrivant :  
 Bonjour *nom* *prenom*,  
 tu as *age* ans et tu habites au *adresse*.  
 
-## Travaux Pratiques N°2  
+## 🏗️ Travaux Pratiques N°2  
 Consigne : Faire un programme en C# qui permet de demander nom, prénom date de naissance ainsi que l'adresse découpée en rue, code postal, et ville pour deux personnes différentes. Puis déterminer entre ces deux personnes laquelles est la plus agée ou la plus jeune.  
 
-## Travaux Pratiques N°3  
+## 🏗️ Travaux Pratiques N°3  
 **Première consigne (Exo 3) :** Faire un programme en C# qui permet de nous dire combien de personne sont plus grandes que la moyenne de la classe **(les valeurs seront différentes)**.  
 Le programme doit finir en écrivant :
 Il y a 15 personnes qui sont plus grandes que la moyenne de la
