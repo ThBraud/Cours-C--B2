@@ -1,0 +1,14 @@
+C:\C#\TP3\TP3\bin\Debug\net9.0\TP3.exe
+C:\C#\TP3\TP3\bin\Debug\net9.0\TP3.deps.json
+C:\C#\TP3\TP3\bin\Debug\net9.0\TP3.runtimeconfig.json
+C:\C#\TP3\TP3\bin\Debug\net9.0\TP3.dll
+C:\C#\TP3\TP3\bin\Debug\net9.0\TP3.pdb
+C:\C#\TP3\TP3\obj\Debug\net9.0\TP3.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\TP3\TP3\obj\Debug\net9.0\TP3.AssemblyInfoInputs.cache
+C:\C#\TP3\TP3\obj\Debug\net9.0\TP3.AssemblyInfo.cs
+C:\C#\TP3\TP3\obj\Debug\net9.0\TP3.csproj.CoreCompileInputs.cache
+C:\C#\TP3\TP3\obj\Debug\net9.0\TP3.dll
+C:\C#\TP3\TP3\obj\Debug\net9.0\refint\TP3.dll
+C:\C#\TP3\TP3\obj\Debug\net9.0\TP3.pdb
+C:\C#\TP3\TP3\obj\Debug\net9.0\TP3.genruntimeconfig.cache
+C:\C#\TP3\TP3\obj\Debug\net9.0\ref\TP3.dll
